@@ -1,3 +1,5 @@
+![logo-pentaur](assets/logo-pentaur.png)
+
 # Pentaur: 32-bit Pentium Microprocessor Simulator
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
@@ -9,6 +11,7 @@ Pentaur is an educational 32-bit microprocessor simulator inspired by the Pentiu
 
 ## Table of Contents
 - [Overview](#overview)
+- [Demo](#demo)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -35,6 +38,9 @@ The project is modularized into separate files for better maintainability:
 - `utils.py`: Utility functions (e.g., log file path).
 
 This tool is ideal for students, educators, and enthusiasts learning about microprocessor architecture, assembly programming, and pipelining.
+
+## Demo
+  ![demo-pentaur](assets/demo-pentaur.gif)
 
 ## Features
 
