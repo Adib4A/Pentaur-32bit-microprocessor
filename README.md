@@ -141,7 +141,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
-Report issues via [GitHub Issues](https://github.com/yourusername/pentaur-simulator/issues).
+Report issues via [GitHub Issues](https://github.com/Adib4A/Pentaur-32bit-microprocessor/issues).
 
 ## License
 
