@@ -1,4 +1,4 @@
-![logo-pentaur](assets/logo-pentaur.png)
+
 
 # Pentaur: 32-bit Pentium Microprocessor Simulator
 
